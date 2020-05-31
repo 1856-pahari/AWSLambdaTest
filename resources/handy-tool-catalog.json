@@ -1,0 +1,38 @@
+[
+   {
+    "id": 100,
+    "toolType":"Hammer", 
+    "brand":"Stanley",     
+    "name": "5oz Magnetic Tack Hammer", 
+    "count":20
+  },
+  {
+    "id": 101,
+    "toolType":"Hammer", 
+    "brand":"Wilton Bash",     
+    "name": "24oz Ball Peen", 
+    "count":27
+  },
+  {
+    "id": 102,
+    "toolType":"Hammer", 
+    "brand":"DeWalt",     
+    "name": "15oz MIG Weld", 
+    "count":14
+  },
+  {
+    "id": 103,
+    "toolType":"Hammer", 
+    "brand":"Crescent",     
+    "name": "18 oz Pry Bar Hammer", 
+    "count":32
+  },
+  {
+    "id": 104,
+    "toolType":"Hammer", 
+    "brand":"DeWalt",     
+    "name": "22 oz Mason Hammer", 
+    "count":7
+  }
+]
+
